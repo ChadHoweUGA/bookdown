@@ -1,7 +1,7 @@
 <!--
 # bookdown <a href="https://pkgs.rstudio.com/bookdown/"><img src="man/figures/logo.png" align="right" height="138"/></a>
 -->
-# Graduate Handbook <a href="https://www.linguistics.uga.edu/"><img src="man/figures/DeptLinguistics_logo_Horizontal_FC.png" align="right" height="138"/></a>
+# Graduate Handbook <a href="https://www.linguistics.uga.edu/"><img src="man/figures/DeptLinguistics_logo_Horizontal_FC.png" align="right" height="100"/></a>
 
 <!-- badges: start -->
 
